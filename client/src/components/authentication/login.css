@@ -1,0 +1,11 @@
+#loginBtn:hover {
+  background-color: #027aff;
+  transition: 0.2s;
+}
+#getGuestBtn:hover {
+  background-color: #027aff;
+  transition: 0.2s;
+}
+#signUpBtn:hover {
+  background-color: #027aff;
+}
